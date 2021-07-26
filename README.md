@@ -1,2 +1,1 @@
-# tetris
-Tetris Game
+Tetris 2.0
