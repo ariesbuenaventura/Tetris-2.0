@@ -3,5 +3,4 @@
 
 <div align="center">
   <img src="tetris.jpg">
-  </div>
 </div>
